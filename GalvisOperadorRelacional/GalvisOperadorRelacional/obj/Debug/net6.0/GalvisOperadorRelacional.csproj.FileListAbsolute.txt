@@ -1,0 +1,14 @@
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\bin\Debug\net6.0\GalvisOperadorRelacional.exe
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\bin\Debug\net6.0\GalvisOperadorRelacional.deps.json
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\bin\Debug\net6.0\GalvisOperadorRelacional.runtimeconfig.json
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\bin\Debug\net6.0\GalvisOperadorRelacional.dll
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\bin\Debug\net6.0\GalvisOperadorRelacional.pdb
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.AssemblyInfoInputs.cache
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.AssemblyInfo.cs
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.csproj.CoreCompileInputs.cache
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.dll
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\refint\GalvisOperadorRelacional.dll
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.pdb
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\GalvisOperadorRelacional.genruntimeconfig.cache
+C:\Users\Harizumice\source\repos\GalvisOperadorRelacional\GalvisOperadorRelacional\obj\Debug\net6.0\ref\GalvisOperadorRelacional.dll

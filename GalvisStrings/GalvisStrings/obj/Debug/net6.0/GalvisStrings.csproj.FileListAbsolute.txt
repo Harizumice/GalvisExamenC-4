@@ -1,0 +1,14 @@
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\bin\Debug\net6.0\GalvisStrings.exe
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\bin\Debug\net6.0\GalvisStrings.deps.json
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\bin\Debug\net6.0\GalvisStrings.runtimeconfig.json
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\bin\Debug\net6.0\GalvisStrings.dll
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\bin\Debug\net6.0\GalvisStrings.pdb
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.AssemblyInfoInputs.cache
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.AssemblyInfo.cs
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.csproj.CoreCompileInputs.cache
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.dll
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\refint\GalvisStrings.dll
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.pdb
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\GalvisStrings.genruntimeconfig.cache
+C:\Users\Harizumice\source\repos\GalvisStrings\GalvisStrings\obj\Debug\net6.0\ref\GalvisStrings.dll

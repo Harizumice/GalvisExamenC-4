@@ -1,0 +1,14 @@
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\bin\Debug\net6.0\GalvisOperadoresLogicos.exe
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\bin\Debug\net6.0\GalvisOperadoresLogicos.deps.json
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\bin\Debug\net6.0\GalvisOperadoresLogicos.runtimeconfig.json
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\bin\Debug\net6.0\GalvisOperadoresLogicos.dll
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\bin\Debug\net6.0\GalvisOperadoresLogicos.pdb
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.AssemblyInfo.cs
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.dll
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\refint\GalvisOperadoresLogicos.dll
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.pdb
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\GalvisOperadoresLogicos.genruntimeconfig.cache
+C:\Users\Harizumice\source\repos\GalvisOperadoresLogicos\GalvisOperadoresLogicos\obj\Debug\net6.0\ref\GalvisOperadoresLogicos.dll
